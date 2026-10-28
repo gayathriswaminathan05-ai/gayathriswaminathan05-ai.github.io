@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[84443,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+3:I[9144,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+4:I[53501,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+5:I[93404,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+6:I[80387,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+7:I[50643,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+8:I[63637,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+9:I[98976,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+a:I[92867,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+b:I[55120,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+c:I[62772,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+d:I[1594,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+e:I[42963,["/_next/static/chunks/0vddkn1rm_-yq.js","/_next/static/chunks/37dew_0vl-t8t.js"],"default"]
+f:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+14:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+16:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+18:I[47686,["/_next/static/chunks/0vddkn1rm_-yq.js"],"default"]
+19:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+1a:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+:HL["/_next/static/chunks/2sc0mtvwc24vb.css","style"]
+13:X
+0:{"buildId":"UqAFud1zWTedNuyEyizKC","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","main",null,{"className":"deck","children":[["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"after":["$","$La",null,{}]}]}]}],["$","$L7",null,{"tone":"#111113","children":["$","$Lb",null,{}]}],["$","$L7",null,{"tone":"#262521","children":["$","$Lc",null,{}]}],["$","$L7",null,{"tone":"#1b1a18","children":["$","$Ld",null,{}]}],["$","$L7",null,{"tone":"#121211","children":["$","$Le",null,{}]}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/37dew_0vl-t8t.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gayathri Swaminathan · Product Design Lead"}],["$","meta","1",{"name":"description","content":"Product design lead at Supertails. Selected work, with the numbers it moved."}],["$","meta","2",{"property":"og:title","content":"Gayathri Swaminathan · Product Design Lead"}],["$","meta","3",{"property":"og:description","content":"There's always a why. Case studies, explorations and the numbers they moved."}],["$","meta","4",{"property":"og:site_name","content":"Gayathri Swaminathan"}],["$","meta","5",{"property":"og:image","content":"https://gayathriswaminathan.com/opengraph-image.jpg?opengraph-image.0t-5uev32_n3b.jpg"}],["$","meta","6",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"There's always a why: the portfolio of Gayathri Swaminathan, Product Design Lead"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Gayathri Swaminathan · Product Design Lead"}],["$","meta","13",{"name":"twitter:description","content":"There's always a why. Case studies, explorations and the numbers they moved."}],["$","meta","14",{"name":"twitter:image","content":"https://gayathriswaminathan.com/opengraph-image.jpg?opengraph-image.0t-5uev32_n3b.jpg"}],["$","meta","15",{"name":"twitter:image:alt","content":"There's always a why: the portfolio of Gayathri Swaminathan, Product Design Lead"}],["$","meta","16",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"630"}],["$","link","19",{"rel":"icon","href":"/icon.svg?icon.26cp65888qyp6.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","20",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@17","staleTime":"$13","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2sc0mtvwc24vb.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0vddkn1rm_-yq.js","async":true}]],["$","html",null,{"lang":"en","className":"poppins_8e2470b4-module__LB56Yq__variable protest_strike_3607e52d-module__Kt6MTq__variable archivo_eabb1886-module__BRVQva__variable caveat_66a72b08-module__sg_FIa__variable antialiased","children":["$","body",null,{"id":"top","children":[["$","$L18",null,{"children":["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],"$L1b"]}]}]],[]]}]}],"$L1c"]}]}]]}],"isPartial":"$@1d","staleTime":"$13","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[97159,["/_next/static/chunks/0vddkn1rm_-yq.js"],"default"]
+11:null
+1b:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+1c:["$","$L20",null,{}]
+13:300
+1f:true
+13:C
+1e:0
+17:"$undefined"
+1d:"$undefined"
+12:"$undefined"
